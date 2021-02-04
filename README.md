@@ -8,5 +8,3 @@
 - 💬 Ask me about **Football**
 
 - 📫 How to reach me **jonathansamuel2k@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joe2k&show_icons=true&locale=en" alt="joe2k" /></p>
