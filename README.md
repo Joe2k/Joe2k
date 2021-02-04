@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jonathan Samuel</h1>
 <img align="right" height="225" src="004b173f6e3d6843df10114e087f30a8.gif">
+<h1 align="center">Hi 👋, I'm Jonathan Samuel</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
 
 <p style="float:left;">
 
