@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joe2k](https://github.com/Joe2k)
 
-- 💬 Ask me about **Football**
+- 💬 Ask me about **Football, Ultimate and Music**
 
 - 📫 How to reach me **jonathansamuel2k@gmail.com**
 
