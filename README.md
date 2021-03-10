@@ -11,3 +11,4 @@
 
 - 📫 How to reach me **jonathansamuel2k@gmail.com**
 
+- :hammer_and_wrench: Proficent with **MERN and React Native**
