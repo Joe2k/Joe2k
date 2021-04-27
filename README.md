@@ -16,6 +16,4 @@ I'm currently studying at **BITS Pilani**, exploring Web and App Development!
 
 - 📫 How to reach me **jonathansamuel2k@gmail.com**
 
-- :hammer_and_wrench: Proficent with **MERN and React Native**
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joe2k&show_icons=true&locale=en" alt="Joe2k" />
