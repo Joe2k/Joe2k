@@ -16,4 +16,10 @@ I'm currently studying at **BITS Pilani**, exploring Web and App Development!
 
 - 📫 How to reach me **jonathansamuel2k@gmail.com**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joe2k&show_icons=true&locale=en" alt="Joe2k" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joe2k&show_icons=true&locale=en" alt="Joe2k" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joe2k" alt="Joe2k" />
+</a>
