@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Joe2k/Joe2k?color=red&style=for-the-badge)](https://github.com/Joe2k/Joe2k?color=blue)
 ![Repos Badge](https://badges.pufler.dev/repos/Joe2k?color=green&style=for-the-badge)
-[![Commits Badge](https://badges.pufler.dev/commits/weekly/Joe2k?color=blue&style=for-the-badge)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Joe2k?color=blue&style=for-the-badge)](https://badges.pufler.dev)
 
 I'm currently studying at **BITS Pilani**, exploring Web and App Development!
 <br/>
