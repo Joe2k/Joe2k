@@ -4,11 +4,11 @@
 ![Repos Badge](https://badges.pufler.dev/repos/Joe2k?color=green&style=for-the-badge)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Joe2k?color=blue&style=for-the-badge)](https://badges.pufler.dev)
 
-I'm currently studying at **BITS Pilani**, exploring Web and App Development!
+I'm currently studying at **BITS Pilani**, exploring various fields!
 <br/>
 <img align="right" height="225" src="004b173f6e3d6843df10114e087f30a8.gif">
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently working with **Go** to build some amazing services and also to have a taste with some of it's juicy frameworks!
 
 - 👨‍💻 All of my projects are available at [@Joe2k](https://github.com/Joe2k)
 
