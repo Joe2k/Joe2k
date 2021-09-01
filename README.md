@@ -6,7 +6,7 @@
 
 I'm currently studying at **BITS Pilani**, exploring various fields!
 <br/>
-<img align="right" height="225" src="004b173f6e3d6843df10114e087f30a8.gif">
+<!-- <img align="right" height="225" src="004b173f6e3d6843df10114e087f30a8.gif"> -->
 
 - 🌱 I’m currently working with **Go, Redis, RabbitMQ and Postgres** to build some amazing services at Gojek as a Product Engineering Intern!
 
